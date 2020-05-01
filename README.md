@@ -1,3 +1,3 @@
 Java Hello World Example 
 
-Prints Hello World
+Using Jenkins and Docker to run a simple hello world program.
